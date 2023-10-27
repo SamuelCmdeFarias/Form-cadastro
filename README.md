@@ -27,7 +27,7 @@ Mercado Livre: Diferente da minha Página, para o usuário se cadastrar nesse si
 * JavaScript
 * [Bootstrap](https://getbootstrap.com/)
 * [Shopee](https://shopee.com.br)
-* [Shein](https://www.shein.com)
+* [Shein](https://www.shein.com.br)
 * [Mercado Livre](https://www.mercadolivre.com.br)
 
 # Autor

@@ -13,6 +13,11 @@ Uma página onde o usuário irá se cadastrar inserindo seus dados de acordo com
 
 ## Comparação
 
+Shopee: A minha Página apresenta todos os campos de cadastro em uma parte só, mas já a Shopee os divide em categorias, como em Informações de identidade, Celular e Email.
+
+Shein: Ela pede para o usuário menos informações do que a minha Página, e tem a opção de localização ao invés de tudo junto na mesma página.
+
+Mercado Livre: Diferente da minha Página, para o usuário se cadastrar nesse site, o usuário só precisa do email, senha e um nome de usuário, e após preencher essas informações ele poderá colocar seu dados pessoais, como o endereço e o CPF e/ou o número do cartão para efetuar as compras.
 
 
 # Fontes e Tecnologias Utilizadas
@@ -21,6 +26,7 @@ Uma página onde o usuário irá se cadastrar inserindo seus dados de acordo com
 * CSS3
 * JavaScript
 * [Bootstrap](https://getbootstrap.com/)
+* [Shopee](https://shopee.com.br)
 
 # Autor
 

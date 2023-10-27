@@ -4,24 +4,12 @@
 
 [Descrição](#descri%C3%A7%C3%A3o)
 
-[Introdução](#introdu%C3%A7%C3%A3o)
-
-[Funcionalidades](#funcionalidades)
-
 [Fontes e Tecnologias Utilizadas](#fontes-e-tecnologias-utilizadas)
 
 [Autor](#autor)
 # Descrição
 
 Uma página onde o usuário irá se cadastrar inserindo seus dados de acordo com o que for solicitado nos espaços.
-
-# Introdução
-
-
-
-# Funcionalidades
-
-
 
 # Fontes e Tecnologias Utilizadas
 

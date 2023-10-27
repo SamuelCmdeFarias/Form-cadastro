@@ -8,11 +8,9 @@
 
 [Funcionalidades](#funcionalidades)
 
-[Tecnologias Utilizadas](#tecnologias-utilizadas)
+[Fontes e Tecnologias Utilizadas](#fontes-e-tecnologias-utilizadas)
 
-[Fontes consultadas](#fontes-consultadas)
-
-[Autores](#autores)
+[Autor](#autor)
 # Descrição
 
 Uma página onde o usuário irá se cadastrar inserindo seus dados de acordo com o que for solicitado nos espaços.
@@ -25,7 +23,7 @@ Uma página onde o usuário irá se cadastrar inserindo seus dados de acordo com
 
 
 
-# Tecnologias Utilizadas
+# Fontes e Tecnologias Utilizadas
 
 * HTML5
 * CSS3

@@ -8,6 +8,11 @@ Uma página onde o usuário irá se cadastrar inserindo seus dados de acordo com
 
 # Tecnologias Utilizadas
 
+* HTML5
+* CSS3
+* JavaScript
+* [Bootstrap](https://bootstrap.com)
+
 # Autor
 
 <a href="https://github.com/SamuelCmdeFarias">

@@ -19,6 +19,13 @@ Shein: Ela pede para o usuário menos informações do que a minha Página, e te
 
 Mercado Livre: Diferente da minha Página, para o usuário se cadastrar nesse site, o usuário só precisa do email, senha e um nome de usuário, e após preencher essas informações ele poderá colocar seu dados pessoais, como o endereço e o CPF e/ou o número do cartão para efetuar as compras.
 
+# Introdução
+
+O usuário terá que colocar suas informações de acordo com o que for solicitado.
+
+Após os campos serem preenchidos, ele terá que selecionar o botão "Cadastrar" para concluir o cadastro.
+
+Caso algum campo estiver em branco ou o CEP for digitado errado, o usuário será notificado por um pop-up no topo da página.
 
 # Fontes e Tecnologias Utilizadas
 

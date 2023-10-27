@@ -4,7 +4,11 @@ Uma página onde o usuário irá se cadastrar inserindo seus dados de acordo com
 
 # Introdução
 
+
+
 # Funcionalidades
+
+
 
 # Tecnologias Utilizadas
 
